@@ -4,6 +4,10 @@ using System.Collections.Generic;
 using UnityEngine;
 // A01753176 Gilberto André García Gaytán
 /* The class creates a cube using the vertices and triangles arrays */
+
+// REPOSITORIO DE GITHUB DEL PROYECTO: 
+// https://github.com/gggandre/Tarea1Cubo
+
 public class A01753176_CuboTarea : MonoBehaviour
 {
     /* Creating an array of 8 vertices. */
